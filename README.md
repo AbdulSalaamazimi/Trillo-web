@@ -1,6 +1,6 @@
 # Trillo-website
 
-This is my second project and I learned in this project flexbox and you can learn flexbox in this project
+This is my second project and I learned in this project flexbox and SCSS you can learn flexbox in this project
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully** 👇
 
